@@ -1,5 +1,5 @@
 # Has Target Sum Lab Solution
-
+[](README.md)
 ## Learning Goals
 
 - Practice algorithmic problem solving
